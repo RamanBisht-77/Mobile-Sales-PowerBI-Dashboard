@@ -67,12 +67,12 @@ This project demonstrates practical skills in Power BI, DAX, time intelligence, 
 
 ### Main Dashboard
 
-![Main Dashboard]()
+![Main Dashboard](https://github.com/RamanBisht-77/Mobile-Sales-PowerBI-Dashboard/blob/main/Dashboard.png)
 
 ### MTD Analysis
 
-![MTD Analysis]()
+![MTD Analysis](https://github.com/RamanBisht-77/Mobile-Sales-PowerBI-Dashboard/blob/main/MTD%20Analysis.png)
 
 ### SPLY Analysis
 
-![SPLY Analysis]()
+![SPLY Analysis](https://github.com/RamanBisht-77/Mobile-Sales-PowerBI-Dashboard/blob/main/SPLY%20Analysis.png)
